@@ -1,0 +1,2 @@
+public final interface WalksOnEightLegs {
+}
