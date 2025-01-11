@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AttractiveLibraryManagementSystem
+comment1.params=
+comment1.target=AttractiveLibraryManagementSystem()
+comment2.params=iconPath\ toolTipText
+comment2.target=javax.swing.JButton\ createIconButton(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ addBook()
+comment4.params=
+comment4.target=void\ updateBook()
+comment5.params=
+comment5.target=void\ removeBook()
+comment6.params=
+comment6.target=void\ searchBook()
+comment7.params=
+comment7.target=void\ clearFields()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
